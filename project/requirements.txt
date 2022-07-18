@@ -1,0 +1,10 @@
+pyaudio
+websockets
+portaudio
+openai
+geocoder
+playsound
+requests
+newsapi
+PyObjC
+twilio
