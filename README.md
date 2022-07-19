@@ -27,6 +27,6 @@ For instance, suppose someone wanted to send an email to someone named John. The
 
 # Conclusion
 
-Overall, CS50 was a fantastic computer science course that taught me the fundamentals of computer science in a freeing, non-hand-holding way. By providing students with the tools to operate across a wide domain of computer science, learners are encouraged to explore the field and use their creativty to design projects they find interesting. With the knowledge I've gained from this course, the world of tech seems much less daunting, and I look forward to continuing my journey for many years to come. 
+Overall, CS50 was a fantastic computer science course that taught me the fundamentals of computer science in a freeing, non-hand-holding way. By providing students with the tools to operate across a variety of domains within computer science, learners are encouraged to explore the field and use their creativty to design projects they find interesting. With the knowledge I've gained from this course, the world of tech seems much less daunting, and I look forward to continuing my journey for many years to come. 
 
 This was CS50!
