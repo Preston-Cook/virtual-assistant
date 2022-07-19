@@ -50,7 +50,7 @@ async def send_receive():
        async def send():
            while True:
                try:
-                # Do not throw exception on overflow i.e. is internet is too slow
+                # Do not throw exception on overflow i.e. if internet is too slow
                    data = stream.read(FRAMES_PER_BUFFER, exception_on_overflow=False)
                    data = base64.b64encode(data).decode("utf-8")
                    json_data = json.dumps({"audio_data":str(data)})
