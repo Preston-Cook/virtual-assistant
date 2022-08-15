@@ -1,4 +1,4 @@
-# A Conversational AI Bot Created By Preston Cook
+# A Virtual Assistant Created By Preston Cook
 
 
 ## Project Overview
