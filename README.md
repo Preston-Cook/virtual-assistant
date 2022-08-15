@@ -5,7 +5,7 @@
 
 As my final project for CS50, Harvard University's on-campus and online introductory computer science course, I programmed a conversational AI bot designed to interact with users and gather information from the web using a variety of application programming interfaces (APIs). 
 
-In all, the AI bot has the ability to chat with the user in a believable manner, gather location information, send text messages, send emails, retrieve information on trending news headlines, search the web for articles on topics of the user's choice, collect weather information on the user's current location, find recipes, manange a database of contacts, and more. 
+In all, the AI bot has the ability to chat with the user in a believable manner, gather location information, send text messages, send emails, retrieve information on trending news headlines, search the web for articles on topics of the user's choice, collect weather information on the user's current location, find recipes, manage a database of contacts, and more. 
 
 In order to perform these tasks, the AI bot makes use of the APIs listed below:
 - Assembly AI's Real-Time Speech Recognition API
