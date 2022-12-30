@@ -9,7 +9,7 @@ In all, the AI bot has the ability to chat with the user in a believable manner,
 
 In order to perform these tasks, the AI bot makes use of the APIs listed below:
 - Assembly AI's Real-Time Speech Recognition API
-- Open AI's GTP3 API
+- Open AI's GPT3 API
 - Open Weather's Current Weather Data API
 - Google's Text-to-Speech API
 - Google's Geolocation API
