@@ -1,4 +1,4 @@
-# A Virtual Assistant Created By Preston Cook
+# A Virtual Assistant
 
 
 ## Project Overview
